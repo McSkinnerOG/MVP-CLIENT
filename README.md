@@ -1,2 +1,2 @@
-# MVP-CLIENT
-Venge.io Client
+# VALID-CLIENT
+ Venge.io Client "Pasted Jelo"
